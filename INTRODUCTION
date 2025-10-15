@@ -1,0 +1,18 @@
+🚀 What is C++?
+C++ is a general-purpose, high-performance programming language developed by Bjarne Stroustrup in 1979 as an extension of the C language. It adds object-oriented features while retaining the speed and low-level access of C.
+
+🧠 Key Features
+- Object-Oriented: Supports classes, inheritance, polymorphism, and encapsulation.
+- Compiled & Statically Typed: Type checking happens at compile time, improving performance.
+- Middle-Level Language: Combines high-level abstraction with low-level system access.
+- Cross-Platform: Runs on multiple operating systems with the right compiler.
+- Fast Execution: Minimal runtime overhead makes it ideal for performance-critical applications.
+
+🛠️ Common Uses
+- Operating systems
+- Game development
+- Embedded systems
+- Real-time simulations
+- GUI applications
+
+🧩 Programming
